@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "UserPort_commodore")(type "KiCad")(uri "${KIPRJMOD}/UserPort_commodore.kicad_sym")(options "")(descr ""))
+)

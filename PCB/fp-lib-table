@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "userport_cbm")(type "KiCad")(uri "${KIPRJMOD}/userport_cbm.pretty")(options "")(descr ""))
+)
