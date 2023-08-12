@@ -77,7 +77,7 @@ J2:
 
 
 Top side of pcb:
-[[/Doc/uprs232ttl-Top.png|Top view of pcb]]
+![Top view of pcb](/Doc/uprs232ttl-top.png)
 
 Bottom side of pcb, also containing info on jumper settings:
-[[/Doc/uprs232ttl-bottom.png|Bottom view of pcb]]
+![Bottom view of pcb](/Doc/uprs232ttl-bottom.png)
