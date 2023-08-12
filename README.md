@@ -81,3 +81,6 @@ Top side of pcb:
 
 Bottom side of pcb, also containing info on jumper settings:
 ![Bottom view of pcb](/Doc/uprs232ttl-bottom.png)
+
+Case with pcb:
+![Case with pcb](/Doc/case.png)
